@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS lets_go_db;
+
+CREATE DATABASE lets_go_db;
